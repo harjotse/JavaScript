@@ -15,6 +15,7 @@ if(user)
 
 // Coercion  ?? == ===
 var num1=2
+var num=234;
 var num2="2"
 var num3="22"
 if(num1==num2) // == checks only whats written inside 
